@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" fill="#F8FAFC" />
+  <rect x="44" y="40" width="712" height="480" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+  <!-- Sensor Grid Left -->
+  <rect x="76" y="76" width="316" height="408" rx="12" fill="#0F172A" />
+  <rect x="104" y="108" width="140" height="14" rx="3" fill="#10B981" />
+  <rect x="104" y="136" width="180" height="10" rx="2" fill="#64748B" />
+  <!-- Gauge Ring -->
+  <circle cx="234" cy="284" r="88" stroke="#1E293B" stroke-width="14" />
+  <path d="M234 196 A88 88 0 1 1 158 328" stroke="#10B981" stroke-width="14" stroke-linecap="round" />
+  <rect x="196" y="272" width="76" height="22" rx="4" fill="#F8FAFC" />
+  <rect x="104" y="418" width="260" height="36" rx="8" fill="#1E293B" />
+  <rect x="124" y="431" width="140" height="10" rx="2" fill="#94A3B8" />
+  <!-- Right Node Readings -->
+  <rect x="416" y="76" width="308" height="124" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="444" y="104" width="120" height="12" rx="2" fill="#0F172A" />
+  <rect x="444" y="132" width="220" height="8" rx="2" fill="#94A3B8" />
+  <rect x="444" y="156" width="180" height="16" rx="4" fill="#ECFDF5" />
+
+  <rect x="416" y="218" width="308" height="124" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="444" y="246" width="140" height="12" rx="2" fill="#0F172A" />
+  <rect x="444" y="274" width="200" height="8" rx="2" fill="#94A3B8" />
+  <rect x="444" y="298" width="240" height="16" rx="4" fill="#ECFDF5" />
+
+  <rect x="416" y="360" width="308" height="124" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="444" y="388" width="110" height="12" rx="2" fill="#047857" />
+  <path d="M444 452L494 428L546 440L598 412L668 424" stroke="#047857" stroke-width="3" stroke-linecap="round" />
+</svg>

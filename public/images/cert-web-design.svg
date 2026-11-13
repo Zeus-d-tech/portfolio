@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" fill="#F8FAFC" />
+  <rect x="36" y="36" width="728" height="488" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" />
+  <rect x="52" y="52" width="696" height="456" rx="8" stroke="#047857" stroke-width="1.5" stroke-dasharray="6 4" />
+  <!-- Top Seal & Header -->
+  <circle cx="400" cy="120" r="34" fill="#ECFDF5" stroke="#047857" stroke-width="2" />
+  <path d="M388 120L396 128L414 110" stroke="#047857" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="270" y="176" width="260" height="14" rx="3" fill="#047857" />
+  <rect x="190" y="212" width="420" height="24" rx="4" fill="#0F172A" />
+  <rect x="240" y="256" width="320" height="12" rx="2" fill="#64748B" />
+  <rect x="275" y="280" width="250" height="12" rx="2" fill="#94A3B8" />
+  <!-- Divider -->
+  <line x1="160" y1="336" x2="640" y2="336" stroke="#E2E8F0" stroke-width="1.5" />
+  <!-- Signature & Credential Blocks -->
+  <rect x="160" y="388" width="160" height="10" rx="2" fill="#0F172A" />
+  <rect x="160" y="408" width="120" height="8" rx="2" fill="#94A3B8" />
+  <rect x="480" y="388" width="160" height="10" rx="2" fill="#0F172A" />
+  <rect x="480" y="408" width="130" height="8" rx="2" fill="#94A3B8" />
+  <rect x="330" y="446" width="140" height="16" rx="4" fill="#F1F5F9" />
+</svg>

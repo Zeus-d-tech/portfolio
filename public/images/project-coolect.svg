@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" fill="#ECFDF5" />
+  <rect x="40" y="36" width="720" height="488" rx="16" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1.5" />
+  <!-- Left Telemetry Panel: Smart Cooling Core -->
+  <rect x="72" y="68" width="316" height="424" rx="14" fill="#0F172A" />
+  <rect x="100" y="98" width="112" height="12" rx="3" fill="#10B981" />
+  <rect x="100" y="122" width="184" height="8" rx="2" fill="#64748B" />
+  <!-- Circular Temperature & Eco-Cooling Dial -->
+  <circle cx="230" cy="264" r="92" stroke="#1E293B" stroke-width="14" />
+  <path d="M230 172 A92 92 0 1 1 146 302" stroke="#10B981" stroke-width="14" stroke-linecap="round" />
+  <circle cx="230" cy="264" r="64" stroke="#334155" stroke-width="1.5" stroke-dasharray="4 4" />
+  <!-- Snowflake / Cooling Vector Icon Inside Dial -->
+  <line x1="230" y1="226" x2="230" y2="302" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <line x1="197" y1="245" x2="263" y2="283" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <line x1="263" y1="245" x2="197" y2="283" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <circle cx="230" cy="264" r="10" fill="#10B981" />
+  <!-- Bottom Eco Mode Bar -->
+  <rect x="100" y="394" width="260" height="66" rx="10" fill="#1E293B" />
+  <rect x="120" y="414" width="116" height="10" rx="2" fill="#F8FAFC" />
+  <rect x="120" y="434" width="168" height="8" rx="2" fill="#34D399" />
+
+  <!-- Right Panel: Zone Sensors & Energy Efficiency -->
+  <rect x="412" y="68" width="316" height="132" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="436" y="94" width="128" height="12" rx="2" fill="#0F172A" />
+  <rect x="436" y="118" width="212" height="8" rx="2" fill="#94A3B8" />
+  <rect x="436" y="146" width="268" height="28" rx="6" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+  <rect x="452" y="156" width="144" height="8" rx="2" fill="#047857" />
+
+  <rect x="412" y="216" width="150" height="128" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="434" y="242" width="76" height="22" rx="4" fill="#0F172A" />
+  <rect x="434" y="278" width="96" height="8" rx="2" fill="#64748B" />
+  <rect x="434" y="298" width="74" height="8" rx="2" fill="#10B981" />
+
+  <rect x="578" y="216" width="150" height="128" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="600" y="242" width="76" height="22" rx="4" fill="#047857" />
+  <rect x="600" y="278" width="96" height="8" rx="2" fill="#64748B" />
+  <rect x="600" y="298" width="84" height="8" rx="2" fill="#94A3B8" />
+
+  <!-- Energy Savings Trend Card -->
+  <rect x="412" y="360" width="316" height="132" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="436" y="384" width="148" height="12" rx="2" fill="#0F172A" />
+  <path d="M436 462L488 446L542 452L596 426L650 434L702 406" stroke="#047857" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="702" cy="406" r="5" fill="#047857" />
+</svg>

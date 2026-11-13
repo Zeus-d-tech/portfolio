@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" fill="#F1F5F9" />
+  <rect x="44" y="40" width="712" height="480" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <!-- Browser chrome -->
+  <rect x="44" y="40" width="712" height="48" rx="16" fill="#F8FAFC" />
+  <line x1="44" y1="88" x2="756" y2="88" stroke="#E2E8F0" stroke-width="1" />
+  <circle cx="76" cy="64" r="5" fill="#CBD5E1" />
+  <circle cx="96" cy="64" r="5" fill="#CBD5E1" />
+  <circle cx="116" cy="64" r="5" fill="#CBD5E1" />
+  <rect x="260" y="54" width="280" height="20" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+  <!-- App Sidebar -->
+  <rect x="64" y="108" width="160" height="392" rx="10" fill="#0F172A" />
+  <rect x="86" y="136" width="88" height="12" rx="3" fill="#10B981" />
+  <rect x="86" y="178" width="116" height="28" rx="6" fill="#1E293B" />
+  <rect x="86" y="218" width="102" height="10" rx="2" fill="#475569" />
+  <rect x="86" y="246" width="90" height="10" rx="2" fill="#475569" />
+  <rect x="86" y="274" width="110" height="10" rx="2" fill="#475569" />
+  <!-- Main Panel: Academic Portal Schedule & Units -->
+  <rect x="248" y="116" width="220" height="16" rx="3" fill="#0F172A" />
+  <rect x="248" y="142" width="160" height="10" rx="2" fill="#94A3B8" />
+  <rect x="612" y="116" width="120" height="34" rx="8" fill="#047857" />
+  <!-- Stat Row -->
+  <rect x="248" y="176" width="150" height="84" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="268" y="196" width="56" height="20" rx="3" fill="#0F172A" />
+  <rect x="268" y="228" width="96" height="8" rx="2" fill="#64748B" />
+
+  <rect x="414" y="176" width="150" height="84" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="434" y="196" width="56" height="20" rx="3" fill="#047857" />
+  <rect x="434" y="228" width="96" height="8" rx="2" fill="#64748B" />
+
+  <rect x="580" y="176" width="152" height="84" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="600" y="196" width="56" height="20" rx="3" fill="#0F172A" />
+  <rect x="600" y="228" width="96" height="8" rx="2" fill="#64748B" />
+  <!-- Course Table -->
+  <rect x="248" y="282" width="484" height="218" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+  <line x1="248" y1="326" x2="732" y2="326" stroke="#E2E8F0" stroke-width="1" />
+  <line x1="248" y1="384" x2="732" y2="384" stroke="#F1F5F9" stroke-width="1" />
+  <line x1="248" y1="442" x2="732" y2="442" stroke="#F1F5F9" stroke-width="1" />
+  <rect x="272" y="300" width="90" height="10" rx="2" fill="#64748B" />
+  <rect x="440" y="300" width="110" height="10" rx="2" fill="#64748B" />
+  <rect x="620" y="300" width="76" height="10" rx="2" fill="#64748B" />
+  <rect x="272" y="348" width="72" height="12" rx="2" fill="#0F172A" />
+  <rect x="440" y="350" width="142" height="10" rx="2" fill="#475569" />
+  <rect x="620" y="348" width="64" height="14" rx="4" fill="#ECFDF5" />
+  <rect x="272" y="406" width="72" height="12" rx="2" fill="#0F172A" />
+  <rect x="440" y="408" width="128" height="10" rx="2" fill="#475569" />
+  <rect x="620" y="406" width="64" height="14" rx="4" fill="#ECFDF5" />
+  <rect x="272" y="464" width="72" height="12" rx="2" fill="#0F172A" />
+  <rect x="440" y="466" width="150" height="10" rx="2" fill="#475569" />
+  <rect x="620" y="464" width="64" height="14" rx="4" fill="#F1F5F9" />
+</svg>

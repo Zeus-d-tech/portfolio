@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" fill="#ECFDF5" />
+  <rect x="36" y="36" width="728" height="488" rx="12" fill="#FFFFFF" stroke="#047857" stroke-width="2" />
+  <!-- Top Academic Crest Banner -->
+  <rect x="76" y="76" width="648" height="80" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <circle cx="122" cy="116" r="22" fill="#047857" />
+  <path d="M113 116L120 123L133 109" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="166" y="102" width="240" height="12" rx="2" fill="#0F172A" />
+  <rect x="166" y="124" width="180" height="8" rx="2" fill="#64748B" />
+  <!-- Certificate Title -->
+  <rect x="76" y="204" width="520" height="24" rx="4" fill="#0F172A" />
+  <rect x="76" y="246" width="440" height="14" rx="2" fill="#047857" />
+  <rect x="76" y="280" width="580" height="10" rx="2" fill="#94A3B8" />
+  <rect x="76" y="302" width="520" height="10" rx="2" fill="#CBD5E1" />
+  <!-- Verification Bar -->
+  <line x1="76" y1="364" x2="724" y2="364" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect x="76" y="402" width="180" height="12" rx="2" fill="#0F172A" />
+  <rect x="76" y="426" width="140" height="8" rx="2" fill="#64748B" />
+  <rect x="320" y="402" width="180" height="12" rx="2" fill="#0F172A" />
+  <rect x="320" y="426" width="140" height="8" rx="2" fill="#64748B" />
+  <rect x="576" y="396" width="148" height="44" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+</svg>

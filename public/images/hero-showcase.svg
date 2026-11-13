@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" fill="none">
+  <rect width="800" height="900" fill="#F1F5F9" />
+  <rect x="48" y="48" width="704" height="804" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+  <!-- Subtle editorial grid lines -->
+  <line x1="48" y1="140" x2="752" y2="140" stroke="#E2E8F0" stroke-width="1" />
+  <line x1="280" y1="140" x2="280" y2="852" stroke="#E2E8F0" stroke-width="1" />
+  <!-- Header bar inside frame -->
+  <circle cx="92" cy="94" r="6" fill="#047857" />
+  <rect x="114" y="88" width="120" height="12" rx="3" fill="#0F172A" />
+  <rect x="572" y="88" width="136" height="12" rx="3" fill="#CBD5E1" />
+  <!-- Left sidebar metrics / index -->
+  <rect x="82" y="184" width="124" height="10" rx="2" fill="#047857" />
+  <rect x="82" y="212" width="156" height="8" rx="2" fill="#94A3B8" />
+  <rect x="82" y="232" width="134" height="8" rx="2" fill="#CBD5E1" />
+  <rect x="82" y="284" width="164" height="120" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="100" y="306" width="60" height="24" rx="4" fill="#0F172A" />
+  <rect x="100" y="346" width="110" height="8" rx="2" fill="#64748B" />
+  <rect x="100" y="364" width="90" height="8" rx="2" fill="#94A3B8" />
+  <!-- Abstract geometric developer emblem & composition -->
+  <rect x="320" y="184" width="392" height="340" rx="14" fill="#0F172A" />
+  <circle cx="516" cy="336" r="96" stroke="#1E293B" stroke-width="2" />
+  <circle cx="516" cy="336" r="62" stroke="#047857" stroke-width="2.5" />
+  <!-- Clean architectural AA monogram inside dark frame -->
+  <path d="M472 362L494 310H506L528 362H515L510 349H490L485 362H472ZM494 338H506L500 322L494 338Z" fill="#F8FAFC" />
+  <path d="M518 362L540 310H552L574 362H561L556 349H536L531 362H518ZM540 338H552L546 322L540 338Z" fill="#10B981" />
+  <rect x="356" y="472" width="130" height="10" rx="2" fill="#10B981" />
+  <rect x="502" y="472" width="174" height="10" rx="2" fill="#334155" />
+  <!-- Bottom architectural wireframe cards -->
+  <rect x="320" y="556" width="186" height="248" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="344" y="584" width="84" height="10" rx="2" fill="#0F172A" />
+  <rect x="344" y="610" width="138" height="8" rx="2" fill="#94A3B8" />
+  <rect x="344" y="628" width="112" height="8" rx="2" fill="#CBD5E1" />
+  <path d="M344 752L384 708L422 734L482 670" stroke="#047857" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="482" cy="670" r="5" fill="#047857" />
+
+  <rect x="526" y="556" width="186" height="248" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="550" y="584" width="96" height="10" rx="2" fill="#0F172A" />
+  <rect x="550" y="616" width="138" height="40" rx="6" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+  <rect x="566" y="631" width="80" height="10" rx="2" fill="#047857" />
+  <rect x="550" y="672" width="138" height="40" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="566" y="687" width="94" height="10" rx="2" fill="#475569" />
+  <rect x="550" y="728" width="138" height="40" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" />
+  <rect x="566" y="743" width="68" height="10" rx="2" fill="#64748B" />
+</svg>
